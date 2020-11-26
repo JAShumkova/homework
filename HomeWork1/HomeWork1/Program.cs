@@ -33,6 +33,7 @@ namespace HomeWork1
             }
 
             Console.ReadKey();
+            Console.WriteLine("Пока-пока!");
         }
     }
 }
